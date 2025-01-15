@@ -5,7 +5,6 @@
 Me chamo  Guilherme Marcolongo, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na FORTEC PRAIA GRANDE, com o curso técnico em informática. Atualmente, estou realizando diversos curso em busca de mais conhecimento em diversa linguagem para aprimoramento de conhecimentos. 
 <br/>
  <a href="https://www.instagram.com/marcolongoxz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gui.msbarbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-marcolongo-787bb8273/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ---
