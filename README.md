@@ -2,8 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo  Guilherme Marcolongo, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na FORTEC PRAIA GRANDE, com o curso técnico em informática. Atualmente, estou cursando . Sou apaixonado por tecnologia e programação.
-
+Me chamo  Guilherme Marcolongo, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na FORTEC PRAIA GRANDE, com o curso técnico em informática. Atualmente, estou realizando diversos curso em busca de mais conhecimento em diversa linguagem para aprimoramento de conhecimentos. 
 
 
 ---
